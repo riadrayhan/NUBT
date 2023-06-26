@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Model1.About">
+
+    <ImageView
+        android:layout_width="200dp"
+        android:id="@+id/id_image"
+        android:src="@drawable/my"
+        android:padding="5dp"
+        android:elevation="20dp"
+        android:background="#D57474"
+        android:layout_gravity="center"
+        android:layout_height="155dp">
+    </ImageView>
+    <TextView
+        android:layout_width="match_parent"
+        android:id="@+id/id_text"
+        android:padding="10dp"
+        android:gravity="center"
+        android:text=" Mamony Yesmin Shuly "
+        android:textStyle="italic"
+        android:textSize="20sp"
+        android:layout_height="wrap_content">
+    </TextView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="100dp"
+            android:id="@+id/id_call"
+            android:padding="10dp"
+            android:elevation="20dp"
+            android:layout_marginLeft="50dp"
+            android:src="@drawable/call"
+            android:layout_height="100dp">
+        </ImageView>
+        <ImageView
+            android:layout_width="100dp"
+            android:id="@+id/id_mail"
+            android:src="@drawable/mail"
+            android:padding="10dp"
+            android:layout_marginLeft="100dp"
+            android:layout_height="100dp">
+        </ImageView>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:background="#A4DCEC"
+        android:padding="10sp"
+        android:text="Hello there, Users. Mamony Yesmin Shuly here. The name of this app is EDUCATIONAL HUB and it was created by Android Studio. It was mostly created by people who enjoy learning. This app has three functions. My university website, YouTube channel, and well-known website. As a result, it is very simple to use for any student or user. In this app main activity has some widget and about widget has 3 part.Calling , Mailing and some description about app.in calling and mailing any user can contact me any time any easily.I'd like to put it on Google Play."
+        android:textSize="16sp"
+        android:layout_height="match_parent">
+    </TextView>
+
+</LinearLayout>

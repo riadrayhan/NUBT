@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:background="#F5BBBB"
+    android:layout_height="match_parent"
+    tools:context=".Model1.ItemActivity">
+    <ImageView
+        android:layout_width="match_parent"
+        android:id="@+id/id_image"
+        android:src="@drawable/nubt"
+        android:layout_height="100dp"/>
+    <TextView
+        android:id="@+id/marqueeText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="25sp"
+        android:ellipsize="marquee"
+        android:marqueeRepeatLimit="marquee_forever"
+        android:padding="10dp"
+        android:textColor="#fff"
+        android:scrollHorizontally="true"
+        android:singleLine="true"
+        android:text="Hello Food Lover! Welcome to My Canteen... Do u Wanna Order Food! Please Contact Us : 01716-347629"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/id_burger"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_margin="10dp"
+            android:padding="5dp"
+            android:background="@drawable/butto"
+            android:text="FastFood"
+            android:textSize="20dp" />
+
+        <Button
+            android:id="@+id/id_pizza"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/butto"
+            android:padding="5dp"
+            android:text="meal item"
+            android:textSize="20dp" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_margin="10dp"
+            android:padding="5dp"
+            android:background="@drawable/butto"
+            android:text="notice board"
+            android:textSize="20dp"
+            android:id="@+id/id_others"/>
+
+        <Button
+            android:id="@+id/id_meal"
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_margin="5dp"
+            android:background="@drawable/butto"
+            android:padding="5dp"
+            android:text="meal calculation"
+            android:textSize="20dp" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_width="170dp"
+            android:layout_height="150dp"
+            android:layout_margin="10dp"
+            android:padding="5dp"
+            android:background="@drawable/butto"
+            android:text="About"
+            android:textSize="20dp"
+            android:id="@+id/id_about"/>
+
+
+    </LinearLayout>
+
+</LinearLayout>

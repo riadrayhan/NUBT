@@ -1,0 +1,101 @@
+                        ONE WEEK MEAL CALCULATION
+
+
+
+Day:1
+Breakfast:
+Bread 2*5=10
+Vegetable =10
+Egg         =10
+Total cost---------- =30
+
+Lunch:
+Rice 1=15
+Pulses=10
+Goat Meat 1 pices=110
+Total cost----------- =135
+This Day Amount ------ =165
+
+Day:2
+Breakfast:
+Bread 2*5=10
+Pulses=10
+Egg   =10
+Total cost----------=30
+
+Lunch  :
+Rice 1=15
+Vegetable =10
+Beef 1 pices=100
+Total cost------------=125
+This Day Amount -------=155
+
+Day:3
+
+Breakfast:
+Bread 2*5=10
+Pulses=10
+Egg     =10
+Total cost-----------=30
+
+Lunch :
+Rice 1=15
+Vegetable =10
+Egg    =10
+Chicken 1 pices=70
+Total cost--------=105
+This Day Amount---------=135
+
+Day:4
+Breakfast:
+Hotchpotch=30
+Egg        =10
+Total cost ----------=40
+
+Lunch :
+Rice 1=15
+Vegetable =10
+Pulses=10
+Fish 1 pices=80
+Total cost----------=115
+This Day Amount----------=155
+
+Day:5
+
+Breakfast:
+Hotchpotch=30
+Egg      =10
+Total cost-----------=40
+
+Lunch :
+Half Meat Birani =120
+Total cost ---------=120
+This Day Amount------------=160
+
+Day:6
+
+Breakfast:
+Hotchpotch=30
+Egg       =10
+Total cost ----------=40
+
+Lunch :
+Rice 1=15
+Vegetable =10
+Pulses=10
+Fish 1 pices=80
+Total cost----------=115
+This Day Amount----------=155
+
+Day:7
+Breakfast:
+Hotchpotch=30
+Egg       =10
+Total cost-------------=40
+
+Lunch :
+Full Chicken Birani =140
+Total cost----------=140
+This Day Amount--------=180
+
+1 Week Total Cost ---------=1105
